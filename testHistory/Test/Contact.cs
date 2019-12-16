@@ -11,7 +11,7 @@ namespace testHistory.Test
 
         public Contact()
         {
-            var a = "***REMOVED***";
+            var a = "Mdpaaaa";
         }
     }
 }

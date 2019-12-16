@@ -5,7 +5,7 @@ namespace testHistory
     class Program
     {
 
-        string password = "***REMOVED***";
+        string password = "Mdpaaaa";
         static void Main(string[] args)
         {
             var a = 1;
